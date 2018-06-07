@@ -1,0 +1,17 @@
+/.gradle
+/.idea
+/app/build
+/app/app.iml
+/app/proguard-rules.pro
+/hooks
+/info
+/objects
+/refs
+/restaurant_app
+config
+description
+HEAD
+local.properties
+/RestaurantApp.iml
+
+
